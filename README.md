@@ -4,7 +4,7 @@
 
 ## 🎥 Project Demo
 
-[**🎥 Click here to watch or download the CampusConnect AI Demo Video**](https://github.com/prasanthkumarpotnuru17-sudo/CampusConnect-AI-Dashboard/raw/main/cmapusconnect_video_explaination-1.mp4)
+https://github.com/user-attachments/assets/4c87e856-09e9-432f-887d-779d2f760376
 ## 🚀 Key Features
 
 - **AI-Driven Performance Tracking:** Dynamic, forward-looking AI suggestion system that provides actionable guidance and personalized insights for ambassadors.
