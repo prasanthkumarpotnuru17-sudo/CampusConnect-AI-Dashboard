@@ -1,5 +1,7 @@
 # CampusConnect AI – Ambassador Growth Engine
 
+**Live Deployment:** [https://campus-connect-ai-dashboard.vercel.app/](https://campus-connect-ai-dashboard.vercel.app/)
+
 **CampusConnect AI** is an intelligent, gamified platform designed to track, manage, and optimize the performance of campus ambassadors. Moving beyond a basic dashboard, it provides a comprehensive suite of tools for real-time tracking, AI-driven insights, and developer-focused metrics integration.
 
 ## 🎥 Project Demo
