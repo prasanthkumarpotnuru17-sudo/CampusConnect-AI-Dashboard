@@ -7,3 +7,4 @@ coverage/
 .env*
 !.env.example
 *.mp4
+!cmapusconnect_video_explaination-1.mp4

@@ -4,8 +4,7 @@
 
 ## 🎥 Project Demo
 
-<video controls src="cmapusconnect_video_explaination.mp4" title="CampusConnect AI Demo" width="100%"></video>
-
+<video controls src="cmapusconnect_video_explaination-1.mp4" title="CampusConnect AI Demo" width="100%"></video>
 ## 🚀 Key Features
 
 - **AI-Driven Performance Tracking:** Dynamic, forward-looking AI suggestion system that provides actionable guidance and personalized insights for ambassadors.
